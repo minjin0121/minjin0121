@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=HELLO,%20MINJIN%20SONG&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=HELLO,%20MINJIN%20SONG&fontAlign=50&fontAlignY=70&fontSize=60&fontColor=000000)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjin0121&hide_title=false&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
