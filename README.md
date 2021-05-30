@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=HELLO,%20MINJIN%20SONG&fontAlign=50&fontAlignY=70&fontSize=60&fontColor=000000)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjin0121&hide_title=false&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+##### 안녕하세요, 송민진입니다.
 
-### Hi there 👋
+###### 🌱 Junior Software Engineer
+
+###### 🌳 Android Engineer
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjin0121&hide_title=false&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **minjin0121/minjin0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
